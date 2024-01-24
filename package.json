@@ -1,0 +1,20 @@
+{
+  "author": "Famarks",
+  "license": "Apache-2.0",
+  "name": "@grafarg/tsconfig",
+  "version": "1.2.0-rc1",
+  "description": "Grafarg's TypeScript config",
+  "keywords": [
+    "grafarg",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/famarks/tsconfig-grafarg.git"
+  },
+  "main": "tsconfig.json",
+  "files": [
+    "base.json",
+    "tsconfig.json"
+  ]
+}
